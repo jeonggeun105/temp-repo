@@ -6,7 +6,7 @@
 ---
 
 I am planning to make a computer vision software that detects objects in images.  
-In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) or [PyTorch](https://github.com/pytorch/pytorch), and other open source softwares.  
+In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org) or [PyTorch](https://pytorch.org/), and other open source softwares.  
 
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
@@ -22,7 +22,6 @@ For example, the objects in the following images were detected using [mmdetectio
 - package manager
 
 ### Installation
-
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
 ```sh
 $ sudo apt update
