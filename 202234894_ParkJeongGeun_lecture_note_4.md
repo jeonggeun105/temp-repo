@@ -75,7 +75,7 @@ Permissions  w  r        Time
 > - rm -r dir1 dir2 : Directories dir1 and dir2 are deleted along with all of their contents.
 
 - mkdir : make a new directory
-> - * : All filenames ( *.txt )
+> - `*` : All filenames ( *.txt )
 > - ? : Any filename followed by exactly ? more characters ( data???.txt )
 
 - help : show help contents in shell
