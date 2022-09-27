@@ -1,4 +1,4 @@
-# Lecture Note - Lab 4
+# Lecture Note - Shell Commands
 
 ### Run Shell
 - Linux / MacOS : Search for "Terminal" in your apps and run it
@@ -75,8 +75,8 @@ Permissions  w  r        Time
 > - rm -r dir1 dir2 : Directories dir1 and dir2 are deleted along with all of their contents.
 
 - mkdir : make a new directory
-> * : All filenames ( *.txt )
-> ? : Any filename followed by exactly ? more characters ( data???.txt )
+> - * : All filenames ( *.txt )
+> - ? : Any filename followed by exactly ? more characters ( data???.txt )
 
 - help : show help contents in shell
 - man : show manual of command
