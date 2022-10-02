@@ -2,8 +2,8 @@
 
 (Default) Standard output is screen.  
 
-`>` : You can redirect output using this after a command (ls) to create and save the output in a file.
-`>>` : append output to an existing file or create and write to a new file if it doesn't exist.
+`>` : You can redirect output using this after a command (ls) to create and save the output in a file.  
+`>>` : append output to an existing file or create and write to a new file if it doesn't exist.  
 
 - cat : display the content of a text file.
 
@@ -64,8 +64,8 @@ command1 | command2 | command 3 : command1 output -> command2 input -> command2 
 `\` : (Backslash) can be used to ignore line change in command, to enter a long command in multiple lines.
 
 
-Linux is a multi-user system.
-Files and directories have a permission assigned differently to owner / group / others.
+Linux is a multi-user system.  
+Files and directories have a permission assigned differently to owner / group / others.  
 
 ```sh
 -rwxrwxrwx
@@ -119,8 +119,9 @@ Superuser : all system administation authorith. Some commands need superuser's p
 - sudo : Put this before the command if you are a superuser. ( type exit to get out of a superuser session. )
 - sudo -i : enter the root directory
 
+
 - nano : write **a shell script**
 - sh : run a shell script
 
-- history : see previous command history or save it to a text file.
 
+- history : see previous command history or save it to a text file.
